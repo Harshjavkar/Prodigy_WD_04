@@ -198,7 +198,7 @@ p {
 }
 /* End Header section */
 
-/* Hero Section */
+/* Main Section */
 #hero {
 	background-image: url(./img/bg1.png);
 	background-size: cover;
@@ -262,9 +262,9 @@ p {
 	animation-delay: 2.5s;
 }
 
-/* End Hero Section */
+/* End Main Section */
 
-/* Services Section */
+/* Skills Section */
 #skills .skills {
 	flex-direction: column;
 	text-align: center;
@@ -324,7 +324,7 @@ p {
 	color: white;
 	text-align: left;
 }
-/* End Services Section */
+/* End Skills Section */
 
 /* Projects section */
 #projects .projects {
